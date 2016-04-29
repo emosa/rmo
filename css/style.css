@@ -1,0 +1,217 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #161718;
+  color: #fff;
+}
+
+.intro {
+	color:#f6d227 !important;
+}
+
+a {
+    color: #f0782a;
+}
+
+h2, h3 {
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+    text-align: center;
+}
+
+
+.h3, h3 {
+    font-size: 26px;
+}
+
+/* Jumbotron Stuff */
+
+.jumbotron {
+  background: url('../img/lights-party-dancing-music.jpg') no-repeat center center;
+  background-size: cover;
+  background-color: transparent;
+  height: 760px;
+  border-bottom: 2px dotted white;
+}
+
+.header .header a {
+  color: #fff;
+}
+
+.header li {
+  display: inline-block;
+  margin-left: 13px;
+  margin-top: 40px;
+}
+
+.header a {
+  padding: 15px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.header .btn-default {
+  border: 0px;
+  border-radius: 0;
+  padding: 8px 30px;
+  background-color: #ff003d;
+  color: #fff;
+}
+
+.main {
+  color: #fff;
+}
+
+.main h1 {
+  padding-top: 80px;
+  text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+
+video {
+    width: 100% !important;
+    height: auto !important;
+    border: 2px solid white;
+}
+
+.img-thumbnail-vid {
+    display: inline-block;
+    max-width: 40%;
+    height: auto;
+    padding: 1px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0px;
+    margin-left: 5%
+}
+
+.img-thumbnail {
+    display: inline-block;
+    max-width: 40%;
+    margin-left: 30%;
+    height: auto;
+    padding: 1px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+}
+
+.img-thumbnail-fl {
+    display: inline-block;
+    max-width: 40%;
+    margin-left: 5%;
+    height: auto;
+    padding: 1px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+}
+
+
+/* Supporting */
+
+.supporting-1, .supporting-2, .supporting-3, .supporting-4 {
+  padding: 70px 30px;
+}
+
+.supporting-1 {
+  background: url('../img/gorillaz.jpg') no-repeat center center;
+  background-size: cover;
+  background-color: transparent;
+  height: 750px;
+  border-top: 2px dotted white;
+  border-bottom: 2px dotted white;
+}
+
+.supporting-2 {
+  background-color: #000;
+  background: url('../img/flylo.jpg') no-repeat center center;
+  background-size: cover;
+  background-color: transparent;
+  height: 750px;
+  border-top: 2px dotted white;
+  border-bottom: 2px dotted white;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+.supporting-3 {
+  background: url('../img/syd.jpg') no-repeat center center;
+  background-size: cover;
+  background-color: transparent;
+  height: 750px;
+  border-top: 2px dotted white;
+  border-bottom: 2px dotted white;
+}
+
+.supporting-4 {
+  background: url('../img/feature.jpg') no-repeat center center;
+  background-size: cover;
+  background-color: transparent;
+  height: 760px;
+  border-top: 2px dotted white;
+  border-bottom: 2px dotted white;
+}
+
+.supporting-4 h1 {
+  margin-top: 80px;
+  text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+  text-align: center;
+}
+
+.supporting-4 .col-md-4 {
+	background-color: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.6);
+	color: rgba(0, 0, 0, 0.6);
+    border: 1px dotted black;
+	
+}
+
+.supporting-4 .container {
+  margin-top: 90px;
+}
+
+.supporting-4 .container p a {
+    color: white;
+    font-weight: bold;
+}
+
+/* Footer Stuff */
+
+ul{
+	list-style-type: none;
+}
+
+ul, li {
+    text-align: center;
+    color: white;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 50px 0 35px 0;
+}
+
+.footer h3 {
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+.footer a {
+  color: #aaa;
+  font-size: 13px;
+  display: inline-block;
+  padding: 5px 0;
+}
+
+#escape2{
+	text-align:right;}
